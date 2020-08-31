@@ -1,2 +1,2 @@
 # Java_study
-[Baekjoon](https://www.acmicpc.net/)<br/>
+[Baekjoon_단계별문제풀이](https://www.acmicpc.net/)<br/>
